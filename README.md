@@ -1,34 +1,22 @@
 # AI Workflow Troubleshooting
 
-This repository contains troubleshooting notes, operational insights, and workflow issues encountered while using open-source AI automation tools and MCP-based agent environments.
+This repository contains personal notes and troubleshooting cases encountered while experimenting with open-source AI workflow and automation tools.
 
-The focus is not on AI model development itself, but on practical workflow operation, issue analysis, and stability improvements in real usage environments.
+The goal is to document workflow issues, operational observations, and practical workarounds during real usage.
 
 ---
 
 ## Topics
 
 - MCP workflow issues
-- Agent execution problems
+- Agent execution behavior
 - Context handling
 - Timeout and retry issues
-- Prompt workflow observations
-- Open-source AI tool integration
-- Automation environment troubleshooting
-
----
-
-## Purpose
-
-This repository is used to document:
-
-- Operational issues encountered during AI workflow usage
-- Workarounds and troubleshooting approaches
-- Reliability and stability observations
-- Practical notes from automation-oriented environments
+- Open-source AI tool usage
+- Automation workflow observations
 
 ---
 
 ## Notes
 
-Some examples may be simplified or partially modified for security and privacy reasons.
+Some examples may be simplified or partially modified for privacy and security reasons.
