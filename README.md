@@ -17,6 +17,19 @@ The goal is to document workflow issues, operational observations, and practical
 
 ---
 
+## Repository Structure
+
+```text
+docs/
+ ├── workflow/     # Workflow and execution issues
+ ├── mcp/          # MCP-related observations
+ ├── context/      # Context/session handling cases
+ ├── prompt/       # Prompt workflow notes
+ └── automation/   # Automation-related troubleshooting
+```
+
+---
+
 ## Notes
 
 Some examples may be simplified or partially modified for privacy and security reasons.
